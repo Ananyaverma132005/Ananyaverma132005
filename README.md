@@ -1,6 +1,8 @@
 # Hi, I'm Ananya Verma
 
-Final-year B.Tech CSE (Hons.) student at XIM University, Bhubaneswar. I work with Python, machine learning and computer vision.
+AI/ML and Generative AI developer · Final-year B.Tech CSE (Hons.) student at XIM University, Bhubaneswar.
+
+I build machine learning, computer vision and Generative AI applications, including LLM apps, RAG systems and AI agents.
 
 ## Projects
 
