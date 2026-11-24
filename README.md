@@ -4,7 +4,7 @@ Final-year B.Tech CSE (Hons.) student at XIM University, Bhubaneswar. I work wit
 
 ## Projects
 
-**Industrial Knowledge Graph Agent**: a maintenance assistant for a factory assembly line that answers questions from a knowledge graph and repair manuals (demo project with sample data).  
+**Industrial Knowledge Graph Agent**: a maintenance assistant for a factory assembly line that answers questions from a knowledge graph and repair manuals (demonstration project).  
 Code: https://github.com/Ananyaverma132005/Industrial-Knowledge-Graph-Agent  
 Live demo: https://ananyaverma132005.github.io/Industrial-Knowledge-Graph-Agent/
 
