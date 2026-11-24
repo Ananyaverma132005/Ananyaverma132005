@@ -4,6 +4,10 @@ Final-year B.Tech CSE (Hons.) student at XIM University, Bhubaneswar. I work wit
 
 ## Projects
 
+**Niji AI**: chat with your documents using an AI model that runs entirely in your browser, so nothing is uploaded.  
+Code: https://github.com/Ananyaverma132005/niji-ai  
+Live demo: https://ananyaverma132005.github.io/niji-ai/
+
 **Industrial Knowledge Graph Agent**: a maintenance assistant for a factory assembly line that answers questions from a knowledge graph and repair manuals (demonstration project).  
 Code: https://github.com/Ananyaverma132005/Industrial-Knowledge-Graph-Agent  
 Live demo: https://ananyaverma132005.github.io/Industrial-Knowledge-Graph-Agent/
