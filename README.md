@@ -38,6 +38,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🏭 [**Industrial Knowledge Graph Agent**](https://github.com/Ananyaverma132005/Industrial-Knowledge-Graph-Agent) | Predictive-maintenance assistant for an assembly line. A LangGraph agent routes plain-English questions to Cypher over a knowledge graph or to RAG over SOP manuals, alongside live telemetry, ML failure-risk scoring and a D3 asset graph | LangGraph · FastAPI · Neo4j · spaCy · scikit-learn · D3.js · Docker |
 | 🎓 [**University Chatbot (RAG)**](https://github.com/Ananyaverma132005/University-Chatbot) | Answers student questions strictly from official university policy manuals, using retrieval-augmented generation | LangChain · Mistral · ChromaDB · Streamlit |
 | 🚁 **Autonomous Edge-AI Hexacopter** | Runs YOLO on an onboard companion computer to analyse plant health in flight. Cuts cloud bandwidth by **60%** with a **50 ms** serial bridge to the flight controller. *1st Place, ICAIET 2025* | Python · OpenCV · YOLO · MAVLink |
 | 💸 [**SpendLens**](https://github.com/Ananyaverma132005/spendlens) | An installable expense-tracker web app (PWA) with budgets, income tracking, spending charts and bill photos | Flask · SQLite · JavaScript · Chart.js |
